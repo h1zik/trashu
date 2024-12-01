@@ -1,0 +1,21 @@
+{
+    "short_name": "TrashU",
+    "name": "TrashU - Trash Classification App",
+    "icons": [
+      {
+        "src": "sampah192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "sampah512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+  }
+  
